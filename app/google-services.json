@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "536574724198",
+    "firebase_url": "https://tappro-c7f73.firebaseio.com",
+    "project_id": "tappro-c7f73",
+    "storage_bucket": "tappro-c7f73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536574724198:android:163656b3fd8266dd",
+        "android_client_info": {
+          "package_name": "com.tap.tap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536574724198-li4qkm76q4qlv2ceh08n699hjgbibpfh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tap.tap",
+            "certificate_hash": "e98112541bb5eabaee0aeec790410547b2daa27a"
+          }
+        },
+        {
+          "client_id": "536574724198-of1qjlqnass5qcl17v2ij1th8va28ro6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUxlcWWM4ZCIOzRoCDVBQhbtbxNdwKq28"
+        },
+        {
+          "current_key": "AIzaSyDeIXuVS42ooE2v2jt371dGqqYMoaG25Dk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536574724198-of1qjlqnass5qcl17v2ij1th8va28ro6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
